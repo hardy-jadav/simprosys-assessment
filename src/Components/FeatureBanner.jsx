@@ -36,7 +36,6 @@ export default function FeatureBanner() {
 
       <div className="max-w-7xl mx-auto px-6 py-12 md:py-0 md:h-162.5 flex flex-col md:flex-row items-center justify-between">
 
-        {/* Text */}
         <div className="text-white text-center md:text-left md:w-1/2">
 
           <p className="text-sm tracking-widest mb-4">

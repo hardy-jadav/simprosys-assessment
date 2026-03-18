@@ -79,7 +79,6 @@ export default function Products() {
       </div>
 
       <div className="max-w-7xl mx-auto px-4 md:px-6">
-        {/* Increased gap from 2 to 6 or 8 for better breathing room on mobile */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-y-10 gap-x-6">
           {products.map((item) => (
             <div key={item.id} className="group flex flex-col items-center text-center">
