@@ -2,7 +2,7 @@ import "./App.css";
 import Banner from "./Components/Banner";
 import EditorsPick from "./Components/EditorPick";
 import Feature from "./Components/Feature";
-import FeatureBanner from "./Components/featureBanner";
+import FeatureBanner from "./Components/FeatureBanner";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Products from "./Components/Products";
